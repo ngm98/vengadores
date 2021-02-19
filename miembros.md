@@ -16,3 +16,4 @@
 * Thor
 * Vision
 * Wasp
+* Winter Soldier
